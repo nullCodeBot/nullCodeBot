@@ -23,12 +23,3 @@
 <img alt="my stats" align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=nullCodeBot&theme=nightowl&show_icons=true&hide_border=true&count_private=true">
 <img alt="my streak" align="left" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=nullCodeBot&theme=nightowl&hide_border=true">
 <img alt="top langs" align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nullCodeBot&theme=nightowl&show_icons=true&hide_border=true&layout=compact">
-
-<img src="name: Full-year calendar
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.isocalendar.fullyear.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_isocalendar: yes
-  plugin_isocalendar_duration: full-year">
